@@ -1,0 +1,31 @@
+a p{
+    background-color: rgb(62, 0, 206);
+    padding: 15px 0;
+    width: 20%;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    border-radius: 50px;
+    text-align: center;
+    transition: 1s all;
+    cursor: pointer;
+    margin: 20px auto;
+}
+
+h1{
+    text-align: center;
+}
+
+a p:hover{
+    background-color: rgb(255, 0, 0);
+    transform: scale(1.2);
+}
+
+body {
+    background-image: url("https://assets.goal.com/images/v3/blt0a4c6e9842d0258e/c70b86a396e607e0b4c7f2c21041105bfbd8c9a7.jpg?auto=webp&format=pjpg&width=3840&quality=60");
+    background-size: 100%;
+}
+
+h1 {
+     color: rgb(255, 255, 255);
+
+}
